@@ -1,4 +1,4 @@
----- Skills used: CTE'S, Subquery, Aggregate Function, Windown Function, CASE WHEN, GROUP BY, ORDER BY
+---- Skills used: CTE'S, Subquery, Aggregate Function, Windown Function, CASE WHEN, GROUP BY, ORDER BY, JOIN
 
 ---Which branch has the most invoice and earn the most money?
 WITH comparision AS(
